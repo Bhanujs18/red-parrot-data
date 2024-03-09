@@ -1,0 +1,71 @@
+const products = [{
+  "name": "Cotton T-Shirt",
+  "price": "$15.99",
+  "id": "CT001",
+  "stock": "100",
+  "size": "M",
+  "color": "White"
+},{
+  "name": "Denim Jeans",
+  "price": "$29.99",
+  "id": "DJ002",
+  "stock": "75",
+  "size": "L",
+  "color": "Blue"
+},{
+  "name": "Striped Polo Shirt",
+  "price": "$19.99",
+  "id": "SPS003",
+  "stock": "50",
+  "size": "S",
+  "color": "Red/White"
+},{
+  "name": "Chino Shorts",
+  "price": "$24.99",
+  "id": "CS004",
+  "stock": "80",
+  "size": "XL",
+  "color": "Khaki"
+},{
+  "name": "Hooded Sweatshirt",
+  "price": "$39.99",
+  "id": "HS005",
+  "stock": "60",
+  "size": "M",
+  "color": "Gray"
+},{
+  "name": "Floral Dress",
+  "price": "$49.99",
+  "id": "FD006",
+  "stock": "40",
+  "size": "L",
+  "color": "Black/Floral"
+},{
+  "name": "Knit Cardigan",
+  "price": "$34.99",
+  "id": "KC007",
+  "stock": "70",
+  "size": "S",
+  "color": "Navy Blue"
+},{
+  "name": "Athletic Leggings",
+  "price": "$27.99",
+  "id": "AL008",
+  "stock": "55",
+  "size": "M",
+  "color": "Black"
+},{
+  "name": "Linen Shirt",
+  "price": "$22.99",
+  "id": "LS009",
+  "stock": "90",
+  "size": "L",
+  "color": "Beige"
+},{
+  "name": "Maxi Skirt",
+  "price": "$32.99",
+  "id": "MS010",
+  "stock": "65",
+  "size": "S",
+  "color": "Green"
+}]
