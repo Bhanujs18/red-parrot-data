@@ -1,4 +1,4 @@
-const products = [{
+[{
   "name": "Cotton T-Shirt",
   "price": "$15.99",
   "id": "CT001",
