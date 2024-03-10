@@ -2,6 +2,7 @@
   "name": "Cotton T-Shirt",
   "price": "$15.99",
   "id": "CT001",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "stock": "100",
   "size": "M",
   "color": "White"
@@ -10,6 +11,7 @@
   "price": "$29.99",
   "id": "DJ002",
   "stock": "75",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "size": "L",
   "color": "Blue"
 },{
@@ -17,6 +19,7 @@
   "price": "$19.99",
   "id": "SPS003",
   "stock": "50",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "size": "S",
   "color": "Red/White"
 },{
@@ -25,18 +28,21 @@
   "id": "CS004",
   "stock": "80",
   "size": "XL",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "color": "Khaki"
 },{
   "name": "Hooded Sweatshirt",
   "price": "$39.99",
   "id": "HS005",
   "stock": "60",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "size": "M",
   "color": "Gray"
 },{
   "name": "Floral Dress",
   "price": "$49.99",
   "id": "FD006",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "stock": "40",
   "size": "L",
   "color": "Black/Floral"
@@ -44,6 +50,7 @@
   "name": "Knit Cardigan",
   "price": "$34.99",
   "id": "KC007",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "stock": "70",
   "size": "S",
   "color": "Navy Blue"
@@ -52,6 +59,7 @@
   "price": "$27.99",
   "id": "AL008",
   "stock": "55",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "size": "M",
   "color": "Black"
 },{
@@ -59,6 +67,7 @@
   "price": "$22.99",
   "id": "LS009",
   "stock": "90",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "size": "L",
   "color": "Beige"
 },{
@@ -67,5 +76,6 @@
   "id": "MS010",
   "stock": "65",
   "size": "S",
+  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
   "color": "Green"
 }]
