@@ -1,81 +1,92 @@
-[{
-  "name": "Cotton T-Shirt",
-  "price": 15.99,
-  "id": "CT001",
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "stock": 100,
-  "size": "M",
-  "color": "White"
-},{
-  "name": "Denim Jeans",
-  "price": 29.99,
-  "id": "DJ002",
-  "stock": 75,
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "size": "L",
-  "color": "Blue"
-},{
-  "name": "Striped Polo Shirt",
-  "price": 19.99,
-  "id": "SPS003",
-  "stock": "50",
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "size": S,
-  "color": "Red/White"
-},{
-  "name": "Chino Shorts",
-  "price": 24.99,
-  "id": "CS004",
-  "stock": 80,
-  "size": "XL",
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "color": "Khaki"
-},{
-  "name": "Hooded Sweatshirt",
-  "price": 39.99,
-  "id": "HS005",
-  "stock": 60,
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "size": "M",
-  "color": "Gray"
-},{
-  "name": "Floral Dress",
-  "price": 49.99,
-  "id": "FD006",
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "stock": 40,
-  "size": "L",
-  "color": "Black/Floral"
-},{
-  "name": "Knit Cardigan",
-  "price": 34.99,
-  "id": "KC007",
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "stock": 70,
-  "size": "S",
-  "color": "Navy Blue"
-},{
-  "name": "Athletic Leggings",
-  "price": 27.99,
-  "id": "AL008",
-  "stock": 55,
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "size": "M",
-  "color": "Black"
-},{
-  "name": "Linen Shirt",
-  "price": 22.99,
-  "id": "LS009",
-  "stock": 90,
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "size": "L",
-  "color": "Beige"
-},{
-  "name": "Maxi Skirt",
-  "price": 32.99,
-  "id": "MS010",
-  "stock": 65,
-  "size": "S",
-  "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
-  "color": "Green"
-}]
+[
+  {
+    "id": "CT001",
+    "name": "Cotton T-Shirt",
+    "price": 15.99,
+    "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
+    "stock": 100,
+    "size": "M",
+    "color": "White"
+  },
+  {
+    "id": "CT002",
+    "name": "Denim Jeans",
+    "price": 29.99,
+    "image": "https://m.media-amazon.com/images/I/71FJz1QtGGL._AC_UX522_.jpg",
+    "stock": 80,
+    "size": "L",
+    "color": "Blue"
+  },
+  {
+    "id": "CT003",
+    "name": "Hooded Sweatshirt",
+    "price": 39.99,
+    "image": "https://m.media-amazon.com/images/I/61eX11vpb0L._AC_UX466_.jpg",
+    "stock": 50,
+    "size": "XL",
+    "color": "Black"
+  },
+  {
+    "id": "CT004",
+    "name": "Chino Pants",
+    "price": 24.99,
+    "image": "https://m.media-amazon.com/images/I/71hDM4KllbL._AC_UX679_.jpg",
+    "stock": 70,
+    "size": "M",
+    "color": "Beige"
+  },
+  {
+    "id": "CT005",
+    "name": "Striped Polo Shirt",
+    "price": 19.99,
+    "image": "https://m.media-amazon.com/images/I/71nCCqerHkL._AC_UX569_.jpg",
+    "stock": 60,
+    "size": "S",
+    "color": "Blue/White"
+  },
+  {
+    "id": "CT006",
+    "name": "Leather Jacket",
+    "price": 79.99,
+    "image": "https://m.media-amazon.com/images/I/61UtxqoJ9ZL._AC_UX679_.jpg",
+    "stock": 30,
+    "size": "L",
+    "color": "Brown"
+  },
+  {
+    "id": "CT007",
+    "name": "Floral Dress",
+    "price": 49.99,
+    "image": "https://m.media-amazon.com/images/I/71idQwx0MHL._AC_UX522_.jpg",
+    "stock": 40,
+    "size": "M",
+    "color": "Pink"
+  },
+  {
+    "id": "CT008",
+    "name": "Cargo Shorts",
+    "price": 17.99,
+    "image": "https://m.media-amazon.com/images/I/71e5PfBb9mL._AC_UX569_.jpg",
+    "stock": 65,
+    "size": "L",
+    "color": "Khaki"
+  },
+  {
+    "id": "CT009",
+    "name": "Checked Shirt",
+    "price": 22.99,
+    "image": "https://m.media-amazon.com/images/I/61eIJW6qD0L._AC_UX569_.jpg",
+    "stock": 55,
+    "size": "XL",
+    "color": "Red/White"
+  },
+  {
+    "id": "CT010",
+    "name": "Pleated Skirt",
+    "price": 34.99,
+    "image": "https://m.media-amazon.com/images/I/61-tQbXZhyL._AC_UX679_.jpg",
+    "stock": 45,
+    "size": "S",
+    "color": "Black"
+  }
+]
