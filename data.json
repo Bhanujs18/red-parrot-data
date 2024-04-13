@@ -104,7 +104,7 @@
   },
    {
     "id": "CT001",
-    "name": "Cotton T-Shirt",
+    "name": "Vintage Shirt",
     "price": 15.99,
     "image": "https://ae01.alicdn.com/kf/S567c596a64724a21845f6e8be5b306ceU.jpg_640x640Q90.jpg_.webp",
     "stock": 100,
@@ -154,7 +154,7 @@
   },
   {
     "id": "CT006",
-    "name": "Leather Jacket",
+    "name": "Women's Hoodie",
     "price": 79.99,
     "image": "https://i.pinimg.com/originals/59/06/04/59060494ce22b9ba57e03b1eead94c31.jpg",
     "stock": 30,
@@ -165,7 +165,7 @@
   },
   {
     "id": "CT007",
-    "name": "Nike Shoes",
+    "name": "Nike Shoes (F)",
     "price": 49.99,
     "image": "https://i.pinimg.com/736x/bd/31/4b/bd314b6d149a63126cb432d2de6b7ecb.jpg",
     "stock": 40,
@@ -195,7 +195,7 @@
   },
   {
     "id": "CT010",
-    "name": "Pleated Skirt",
+    "name": "Pleated Dress",
     "price": 34.99,
     "gender": "female",
     "image": "https://m.media-amazon.com/images/I/81psjHxAyeL._AC_UY350_.jpg",
