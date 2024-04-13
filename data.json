@@ -5,6 +5,7 @@
     "price": 15.99,
     "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
     "stock": 100,
+    "gender": "male",
     "size": "M",
     "color": "White"
   },
@@ -21,6 +22,7 @@
     "id": "CT003",
     "name": "Hooded Sweatshirt",
     "price": 39.99,
+     "gender": "male",
     "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F79%2F43%2F7943d9ad4c844df8ceed05042ba8efe661aa30b2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/mobilemain]",
     "stock": 50,
     "size": "XL",
@@ -32,6 +34,7 @@
     "price": 24.99,
     "image": "https://m.media-amazon.com/images/I/61KFl9VisyL._AC_UY1100_.jpg",
     "stock": 70,
+     "gender": "male",
     "size": "M",
     "color": "Beige"
   },
@@ -41,6 +44,7 @@
     "price": 19.99,
     "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/l/e/tr:h-400,w-300,cm-pad_resize/levis-21983-0292_1_a070ed34.jpg?rnd=20200526195200",
     "stock": 60,
+     "gender" : "male",
     "size": "S",
     "color": "Blue/White"
   },
@@ -50,16 +54,20 @@
     "price": 79.99,
     "image": "https://contents.mediadecathlon.com/p2301349/83b14838db03f875377e5f2efeb3e700/p2301349.jpg?format=auto&quality=70&f=650x0",
     "stock": 30,
+     "gender": "male",
+    
     "size": "L",
     "color": "Brown"
   },
   {
     "id": "CT007",
-    "name": "NIke Shoes",
+    "name": "Nike Shoes",
     "price": 49.99,
     "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8430889e-ea10-4a0a-8bfb-6d46032d88bf/air-jordan-1-low-shoes-qBzpHW.png",
     "stock": 40,
     "size": "M",
+     "gender": "male",
+    
     "color": "White"
   },
   {
@@ -68,6 +76,8 @@
     "price": 17.99,
     "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/track-pant/u/7/e/m-gu5043-adidas-original-imag2dvzwuedh9fn-bb.jpeg?q=20&crop=false",
     "stock": 65,
+     "gender": "male",
+    
     "size": "L",
     "color": "Khaki"
   },
@@ -78,12 +88,116 @@
     "image": "https://www.replayjeans.com/us/media/catalog/product/M/4/M4095A_000_52656_010_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
     "stock": 55,
     "size": "XL",
+    "gender": "male",
+    
     "color": "Red/White"
   },
   {
     "id": "CT010",
     "name": "Pleated Skirt",
     "price": 34.99,
+    "gender": "male",
+    "image": "https://m.media-amazon.com/images/I/61dl2aV0-HL._AC_UY1000_.jpg",
+    "stock": 45,
+    "size": "S",
+    "color": "Black"
+  },
+   {
+    "id": "CT001",
+    "name": "Cotton T-Shirt",
+    "price": 15.99,
+    "image": "https://m.media-amazon.com/images/I/512t7x4y3RL._AC_SX466_.jpg",
+    "stock": 100,
+    "gender": "female",
+    "size": "M",
+    "color": "White"
+  },
+  {
+    "id": "CT002",
+    "name": "Denim Jeans",
+    "price": 29.99,
+    "image": "https://www.modacalcio.it/images/stories/virtuemart/product//maglie//Germania/WindBrekerEuro2024-IU2086//det-foto-4.jpg",
+    "stock": 80,
+    "size": "L",
+    "gender": "female",
+    "color": "Blue"
+  },
+  {
+    "id": "CT003",
+    "name": "Hooded Sweatshirt",
+    "price": 39.99,
+     "gender": "female",
+    "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F79%2F43%2F7943d9ad4c844df8ceed05042ba8efe661aa30b2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/mobilemain]",
+    "stock": 50,
+    "size": "XL",
+    "color": "Black"
+  },
+  {
+    "id": "CT004",
+    "name": "Chino Pants",
+    "price": 24.99,
+    "image": "https://m.media-amazon.com/images/I/61KFl9VisyL._AC_UY1100_.jpg",
+    "stock": 70,
+     "gender": "female",
+    "size": "M",
+    "color": "Beige"
+  },
+  {
+    "id": "CT005",
+    "name": "Striped Polo Shirt",
+    "price": 19.99,
+    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/l/e/tr:h-400,w-300,cm-pad_resize/levis-21983-0292_1_a070ed34.jpg?rnd=20200526195200",
+    "stock": 60,
+     "gender": "female",
+    "size": "S",
+    "color": "Blue/White"
+  },
+  {
+    "id": "CT006",
+    "name": "Leather Jacket",
+    "price": 79.99,
+    "image": "https://contents.mediadecathlon.com/p2301349/83b14838db03f875377e5f2efeb3e700/p2301349.jpg?format=auto&quality=70&f=650x0",
+    "stock": 30,
+     "gender": "female",
+    
+    "size": "L",
+    "color": "Brown"
+  },
+  {
+    "id": "CT007",
+    "name": "Nike Shoes",
+    "price": 49.99,
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8430889e-ea10-4a0a-8bfb-6d46032d88bf/air-jordan-1-low-shoes-qBzpHW.png",
+    "stock": 40,
+    "size": "M",
+     "gender": "female",
+    "color": "White"
+  },
+  {
+    "id": "CT008",
+    "name": "Cargo Shorts",
+    "price": 17.99,
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/track-pant/u/7/e/m-gu5043-adidas-original-imag2dvzwuedh9fn-bb.jpeg?q=20&crop=false",
+    "stock": 65,
+     "gender": "female",
+    "size": "L",
+    "color": "Khaki"
+  },
+  {
+    "id": "CT009",
+    "name": "Checked Shirt",
+    "price": 22.99,
+    "image": "https://www.replayjeans.com/us/media/catalog/product/M/4/M4095A_000_52656_010_1.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+    "stock": 55,
+    "size": "XL",
+    "gender": "female",
+    "color": "Red/White"
+  },
+  {
+    "id": "CT010",
+    "name": "Pleated Skirt",
+    "price": 34.99,
+    "gender": "female",
     "image": "https://m.media-amazon.com/images/I/61dl2aV0-HL._AC_UY1000_.jpg",
     "stock": 45,
     "size": "S",
