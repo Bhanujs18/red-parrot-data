@@ -13,7 +13,7 @@
     "id": "CT002",
     "name": "Denim Jeans",
     "price": 29.99,
-    "image": "https://www.modacalcio.it/images/stories/virtuemart/product//maglie//Germania/WindBrekerEuro2024-IU2086//det-foto-4.jpg",
+    "image": "hthttps://cottonon.com/dw/image/v2/BBDS_PRD/on/demandware.static/-/Sites-catalog-master-women/default/dw20056491/2052815/2052815-09-4.jpg?sw=640&sh=960&sm=fit",
     "stock": 80,
     "size": "L",
     "color": "Blue"
@@ -127,7 +127,7 @@
     "name": "Hooded Sweatshirt",
     "price": 39.99,
      "gender": "female",
-    "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F79%2F43%2F7943d9ad4c844df8ceed05042ba8efe661aa30b2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/mobilemain]",
+    "image": "https://www.sassafras.in/cdn/shop/products/SFSWSH7410-1_1000x.jpg?v=1700582326",
     "stock": 50,
     "size": "XL",
     "color": "Black"
@@ -136,7 +136,7 @@
     "id": "CT004",
     "name": "Chino Pants",
     "price": 24.99,
-    "image": "https://m.media-amazon.com/images/I/61KFl9VisyL._AC_UY1100_.jpg",
+    "image": "https://media3.newlookassets.com/i/newlook/850768141M3/womens/clothing/trousers/navy-mid-rise-straight-leg-chinos.jpg?strip=true&qlt=50&w=720",
     "stock": 70,
      "gender": "female",
     "size": "M",
@@ -144,9 +144,9 @@
   },
   {
     "id": "CT005",
-    "name": "Striped Polo Shirt",
+    "name": "Leather Jacket",
     "price": 19.99,
-    "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/l/e/tr:h-400,w-300,cm-pad_resize/levis-21983-0292_1_a070ed34.jpg?rnd=20200526195200",
+    "image": "https://img.shopstyle-cdn.com/sim/3d/25/3d2556651af27c9ee7617d16b53b729f_best/balfern-belted-hem-leather-biker-jacket.jpg",
     "stock": 60,
      "gender": "female",
     "size": "S",
